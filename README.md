@@ -1,4 +1,4 @@
-![OpenPol.org](https://github.com/openpol-org/OpenPol/blob/master/images/OpenPol.org128.png?raw=true "OpenPol.org")
+
 
 This is an Open source project aiming to provide tools for managing citywide police departments.
 
@@ -18,7 +18,3 @@ The main goal of this project is to promote the use, development and disseminati
 - Contribute to the development of the local software industry.
 - Guarantee the linguistic plurality of the regions.
 - Promote the use of open standards.
-
-
-
-
