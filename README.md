@@ -17,6 +17,6 @@ o Contribute to the development of the local software industry.
 o Guarantee the linguistic plurality of the regions.
 o Promote the use of open standards.
 
-![OpenPol](https://api.segment.io/v1/pixel/page?data=ewogICJ3cml0ZUtleSI6ICJ1aHhGakwyRTdsa3BMdmtBMjlLQk5HbE9uVElwTHJoOSIsCiAgInVzZXJJZCI6ICJhbm9ueW1vdXNJZCIsCiAgIm5hbWUiOiAiSG9tZSIsCiAgImNhdGVnb3J5IjogIkhvbWUiLAogICJwcm9wZXJ0aWVzIjogewoJInVybCAiOiAiaHR0cHM6Ly9naXRodWIuY29tL29wZW5wb2wtb3JnL09wZW5Qb2wiCiAgfQp9 "OpenPol")
+
 
 
